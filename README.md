@@ -9,8 +9,8 @@
 
 <div>
   <a href="https://github.com/leonardoalvarengapereira"></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoalvarengapereira&show_icons=true&theme=dracula&include_all_commits=true&acount_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalvarengapereira&layout-compact=true&langs-count=16&theme=dracula" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoalvarengapereira&show_icons=true&theme=dracula&include_all_commits=true&acount_private=true&range=last_year" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalvarengapereira&layout=compact&langs-count=10&theme=dracula&range=last_year" />
 </div>
 
 <div>
