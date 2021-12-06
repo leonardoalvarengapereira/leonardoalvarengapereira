@@ -4,15 +4,16 @@
 - 🌱 No momento utilizo mais a linguagem PHP, mas também atuo em projetos nas linguagens Java e Node.js
 - 👯 Utilizo alguns frameworks nas linguagens mencionadas acima, como Laravel, Spring Boot e JSF
 - 🤔 Trabalho hoje no Tiny ERP e no IFRS, além de colaborar em outros projetos como Freelancer
-- 📫 Contate-me através do e-mail leonardo.alvarenga.pereira@gmail.com
 
 
-<div>
+<!--div>
   <a href="https://github.com/leonardoalvarengapereira"></a>
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoalvarengapereira&show_icons=true&theme=dracula&include_all_commits=true&acount_private=true&range=last_year" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=leonardoalvarengapereira&layout=compact&langs-count=10&theme=dracula&include_all_commits=true&range=last_year" />
-</div>
+</div-->
 
+##
+### Tecnologias mais utilizadas
 <div>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
   <img align="center" alt="CSS" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -28,6 +29,7 @@
 </div>
 
 ##
+### Contate-me nos seguintes canais
 <div>
   <a href="mailto:leonardo.alvarenga.pereira@gmail.com" target="_blank">
     <img align="center" alt="Gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
